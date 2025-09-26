@@ -1,0 +1,7 @@
+{
+  "name": "airdrop-watcher",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {"start":"node scan.js"},
+  "dependencies": {"ethers":"^6.0.0","minimist":"^1.2.7","dotenv":"^16.0.0"}
+}
